@@ -1,0 +1,13 @@
+---
+layout: post
+title: "和田加奈子 - 悲しいハートは燃えている(きまぐれオレンジ☆ロード)"
+date: 2022-06-02 23:00:00 +0900
+category: ani
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/ani/和田加奈子 - 悲しいハートは燃えている(きまぐれオレンジ☆ロード).json"></video>
+</div>
+
+```
+```

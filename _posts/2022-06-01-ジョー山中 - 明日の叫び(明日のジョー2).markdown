@@ -1,0 +1,13 @@
+---
+layout: post
+title: "ジョー山中 - 明日の叫び(明日のジョー)"
+date: 2022-06-01 23:00:00 +0900
+category: ani
+---
+
+<div class="video-container">
+    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered" data-json="/public/json/ani/ジョー山中 - 明日の叫び(明日のジョー).json"></video>
+</div>
+
+```
+```
